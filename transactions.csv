@@ -1,0 +1,5 @@
+date,type,category,amount,note
+2026-01-01,income,salary,30000.0,salary
+2026-01-02,expense,food,200.0,breakfast
+2026-01-03,expense,travel,500.0,bus
+2026-06-07,income,,0.0,
